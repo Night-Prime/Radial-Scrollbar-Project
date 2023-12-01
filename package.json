@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@parcel/resolver-default": "^2.10.3",
+    "@parcel/transformer-sass": "^2.10.3",
+    "parcel": "^2.10.3",
+    "sass": "^1.69.5"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2",
+    "postcss": "^8.4.31",
+    "postcss-nested": "^6.0.1",
+    "smooth-scrollbar": "^8.8.4"
+  },
+  "name": "radial-scrollbar",
+  "description": "This is me attempting to build an exciting scroll project.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "web-animation",
+    "scrollbar"
+  ],
+  "author": "Dhaniel",
+  "license": "ISC"
+}
